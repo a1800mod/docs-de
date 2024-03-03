@@ -1,9 +1,9 @@
 <!-- _sidebar.md -->
 
-- [HOME](./)
+- [HOME](/de/)
 
 - Lua
-  - [Lua-Commands](/de/commands/index)
+  - [Lua-Befehle](/de/commands/index)
     - [TextSources](/de/commands/TextSources/ts)
       - [area](/de/commands/TextSources/area)
       - [cheat](/de/commands/TextSources/cheat)
